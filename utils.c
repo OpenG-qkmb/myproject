@@ -2,5 +2,5 @@
 #include "utils.h"
 
 void print_world() {
-    printf("World!\\n");
+    printf("World!\n");
 }
